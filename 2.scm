@@ -1,4 +1,4 @@
->; 2.17
+; 2.17
 (define last-pair
   (lambda (items)
     (cond ((null? items) '())
